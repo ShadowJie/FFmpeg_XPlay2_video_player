@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Reading Qt configuration (G:/Qt/Qt5.9.9/5.9.9/msvc2015/bin/qmake)
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  uic XPlay2.ui
+  rcc XPlay2.qrc
+  moc XPlay2.h
+  moc XSlider.h
+  moc XVideoWidget.h
+   RCC: Warning: No resources in 'G:\CppLearningFile\FFmpeg\lesson2\lesson_code\src\XPlay2\XPlay2.qrc'.
+  XAudioPlay.cpp
+  XAudioThread.cpp
+  XDecodeThread.cpp
+  XDemuxThread.cpp
+g:\cpplearningfile\ffmpeg\lesson2\lesson_code\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 XDemuxThread.cpp)
+  XResample.cpp
+  XSlider.cpp
+  XVideoThread.cpp
+  XVideoWidget.cpp
+g:\cpplearningfile\ffmpeg\lesson2\lesson_code\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 XResample.cpp)
+XResample.cpp(45): warning C4305: “return”: 从“int”到“bool”截断
+  XDecode.cpp
+g:\cpplearningfile\ffmpeg\lesson2\lesson_code\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 XDecode.cpp)
+g:\cpplearningfile\ffmpeg\lesson2\lesson_code\src\xplay2\xvideothread.cpp(28): warning C4715: “XVideoThread::Open”: 不是所有的控件路径都返回值
+  XDemux.cpp
+  XPlay2.cpp
+  main.cpp
+g:\cpplearningfile\ffmpeg\lesson2\lesson_code\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 XDemux.cpp)
+g:\cpplearningfile\ffmpeg\lesson2\lesson_code\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 XVideoWidget.cpp)
+  qrc_XPlay2.cpp
+  moc_XPlay2.cpp
+  moc_XSlider.cpp
+  moc_XVideoWidget.cpp
+  XPlay2.vcxproj -> G:\CppLearningFile\FFmpeg\lesson2\lesson_code\src\XPlay2\..\..\bin\win32\XPlay2.exe
+  XPlay2.vcxproj -> ..\..\bin\win32\XPlay2.pdb (Full PDB)
